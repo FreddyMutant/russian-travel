@@ -1,9 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Проект:+Путешествие+По+России)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Проект:<h1 align="center">"How-to-learn" one page project in Yandex.Practicum by Vladimir Fedorchuk</h1>
+<p align="center"><img src="https://github.com/FreddyMutant/how-to-learn/blob/main/images/header-image.png?raw=true" width=600px hight=600px>
+</p>)
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+### **Обзор**
+1. Описание работы
+2. Используемые технологии
+3. Ссылка на GitHub Pages
 
 **Интро**
 
@@ -21,3 +23,5 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+## [Check out the project on GitHubPages](https://freddymutant.github.io/how-to-learn/)
