@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github.com/FreddyMutant/how-to-learn/blob/main/images/header-image.png?raw=true" width=600px hight=600px>
 </p>
 
-### **Обзор**
+### **Сontent**
 1. Description
 2. Functionality
 3. Technologies used
