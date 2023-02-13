@@ -11,9 +11,8 @@
 
 **Description**
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+There will be a project about a trip through part of Russia.
+The site will look responsive on the most common screen resolutions. The use of grid technology will allow you to compactly and logically place all the content.
 
 **Resources**
 
