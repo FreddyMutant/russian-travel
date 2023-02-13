@@ -4,9 +4,10 @@
 </p>
 
 ### **Обзор**
-1. Описание работы
-2. Используемые технологии
-3. Ссылка на GitHub Pages
+1. Description
+2. Functionality
+3. Technologies used
+4. Link to GitHub Pages
 
 **Интро**
 
@@ -16,7 +17,7 @@
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Link to layout in Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 **Картинки**
 
