@@ -5,9 +5,10 @@
 
 ### **Сontent**
 1. Description
-2. Functionality
-3. Technologies used
-4. Link to GitHub Pages
+2. Resources
+3. Functionality
+4. Technologies used
+5. Link to GitHub Pages
 
 **Description**
 
@@ -15,7 +16,7 @@
 В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
 Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
 
-**Figma**
+**Resources**
 
 * [Link to layout in Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
