@@ -35,9 +35,4 @@
 - Figma
 - Git
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
-
 ## [Check out the project on GitHubPages](https://freddymutant.github.io/how-to-learn/)
