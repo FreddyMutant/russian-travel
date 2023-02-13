@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Проект:+Путешествие+По+России)]
 
 ### Обзор
 * Интро
