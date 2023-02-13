@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=50&color=498EF7&multiline=true&width=600&height=120&lines=%22Traveling+in+Russia!%22;One+page+adaptive+project;By+Vladimir+Fedorchuk.)
 
+
 [![lead.png](https://i.postimg.cc/QdH2rHyN/lead.png)](https://postimg.cc/5XW7BNJD)
+
 
 ## **Сontent**
 1. Description
