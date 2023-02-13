@@ -1,23 +1,38 @@
-# Проект: Путешествие по России
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=50&color=498EF7&multiline=true&width=600&height=120&lines=%22Traveling+in+Russia!%22;One+page+adaptive+project;By+Vladimir+Fedorchuk.)
 
-### Обзор
-* Интро
-* Figma
-* Картинки
 
-**Интро**
+[![lead.png](https://i.postimg.cc/QdH2rHyN/lead.png)](https://postimg.cc/5XW7BNJD)
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
 
-**Figma**
+## **Сontent**
+1. Description
+2. Resources
+3. Functionality
+4. Technologies used
+5. Link to GitHub Pages
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+**Description**
 
-**Картинки**
+There will be a project about a trip through part of Russia.
+The site will look responsive on the most common screen resolutions. The use of grid technology will allow you to compactly and logically place all the content.
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+**Resources**
 
-Удачи!
+* [Link to layout in Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+
+**Functionality**
+
+- organazing file structure according to BEM-methodology (Nested method),
+- flexbox-layouting, positioning elements,
+- working with embedded Youtube videos,
+- animating and transforming page elements with CSS
+
+**Technologies used**
+
+- HTML
+- CSS
+- Import style rules and fonts from stylesheets
+- Figma
+- Git
+
+## [Check out the project on GitHubPages](https://freddymutant.github.io/how-to-learn/)
