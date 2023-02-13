@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2B00F7FF&lines="Traveling+in+Russia!";Adaptive+one+page+project;By+Vladimir+Fedorchuk)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&color=2B00F7&height=60&lines=%22Traveling+in+Russia!%22;One+page+adaptive+project;By+Vladimir+Fedorchuk)
 
 <p align="center"><img src="https://github.com/FreddyMutant/how-to-learn/blob/main/images/header-image.png?raw=true" width=600px hight=600px>
 </p>
