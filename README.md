@@ -2,7 +2,7 @@
 
 [![lead.png](https://i.postimg.cc/QdH2rHyN/lead.png)](https://postimg.cc/5XW7BNJD)
 
-### **Сontent**
+## **Сontent**
 1. Description
 2. Resources
 3. Functionality
