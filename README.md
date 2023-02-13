@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=50&color=498EF7&multiline=true&width=600&height=120&lines=%22Traveling+in+Russia!%22;One+page+adaptive+project;By+Vladimir+Fedorchuk.)
 
-<p align="center"><img src="https://i.postimg.cc/gcZNV36P/lead.png" width=600px hight=600px>
+<p align="center"><img src="https://i.postimg.cc/gcZNV36P/lead.png" width=800px hight=600px>
 </p>
 
 ### **Сontent**
