@@ -1,8 +1,7 @@
-.cards {
-  width: 920px;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  padding: 0;
-  list-style: none;
+.footer__link {
+  margin-right: 18px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.12;
+  color: white;
 }

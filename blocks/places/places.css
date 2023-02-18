@@ -1,8 +1,7 @@
-.cards {
-  width: 920px;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  padding: 0;
-  list-style: none;
+.places {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 80px;
+  max-width: calc(100% - 148px * 2);
+  margin: 92px auto;
 }

@@ -1,8 +1,9 @@
-.cards {
-  width: 920px;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  padding: 0;
-  list-style: none;
+.lead__title {
+  max-width: 720px;
+  height: 200px;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 1.04;
+  text-align: center;
+  margin: 0;
 }

@@ -1,8 +1,4 @@
-.cards {
-  width: 920px;
-  display: flex;
-  flex-wrap: wrap;
+.cover {
+  max-width: calc(100% - 48px * 2);
   margin: 0 auto;
-  padding: 0;
-  list-style: none;
 }

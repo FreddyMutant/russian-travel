@@ -1,8 +1,6 @@
-.cards {
-  width: 920px;
+.footer {
+  max-width: calc(100% - 48px * 2);
   display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  padding: 0;
-  list-style: none;
+  justify-content: space-between;
+  margin: 92px auto 0;
 }

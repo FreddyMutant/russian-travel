@@ -1,8 +1,8 @@
-.cards {
-  width: 920px;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  padding: 0;
-  list-style: none;
+.lead__subtitle {
+  max-width: 640px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.2;
+  text-align: center;
+  margin: 32px 0 64px;
 }
