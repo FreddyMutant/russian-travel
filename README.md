@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=50&color=498EF7&multiline=true&width=600&height=120&lines=%22Traveling+in+Russia!%22;One+page+adaptive+project;By+Vladimir+Fedorchuk.)
 
 
-<img src="https://github.com/FreddyMutant/russian-travel/blob/main/images/laed.png?raw=true" width=600px hight=600px>
+<img src="https://github.com/FreddyMutant/russian-travel/blob/main/images/lead.png?raw=true" width=600px hight=600px>
 
 
 ## **Сontent**
