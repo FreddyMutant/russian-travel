@@ -35,4 +35,4 @@ The site will look responsive on the most common screen resolutions. The use of 
 - Figma
 - Git
 
-## [Check out the project on GitHubPages](https://freddymutant.github.io/how-to-learn/)
+## [Check out the project on GitHubPages](https://freddymutant.github.io/russian-travel/)
