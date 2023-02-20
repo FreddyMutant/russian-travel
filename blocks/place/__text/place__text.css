@@ -3,6 +3,22 @@
   flex-direction: column;
   align-self: flex-start;
   list-style: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.63;
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__text {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__text {
+    font-size: 16px;
+    margin: 0 16px;
+  }
 }

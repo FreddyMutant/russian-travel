@@ -1,6 +1,15 @@
 .place__paragraph_second {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 1.63;
   margin-top: 26px;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__paragraph_second {
+    margin-top: 25px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph_second {
+    margin-top: 25px;
+  }
 }
